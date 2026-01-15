@@ -1,0 +1,28 @@
+---
+title: "Day 1"
+description: "Saturday"
+author: "Bella Hottenrott"
+date: "1/3/2026"
+categories:
+  - reflection
+draft: false
+---
+## Arrival at Airport
+
+After a long travel lasting over 24 hours, I finally landed in Nanjing around lunchtime. Vanessa was there immediately to greet me and we drove straight into the city to the One Mall.
+
+![View from the Airplane](images/flyingin.png){fig-align="center"}
+
+## One Mall
+
+My first taste of local flavors were:
+
+  * An Americano with Orange Juice from LuckyCoffee
+  * Lunch of traditional local food. Most notably, some authentic Nanjing Duck. 
+
+![Lunch Restaurant](images/lunchrest.png){fig-align="center"}
+
+
+## Dinner
+
+After a much-needed power nap at the hotel, we met Mr. Gu for dinner. We tried cuisine from the Canton region. A perfect, savory end to a long travel day.

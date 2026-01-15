@@ -1,0 +1,16 @@
+---
+title: "Day 8"
+description: "Saturday"
+author: "Bella Hottenrott"
+date: "1/10/2026"
+categories:
+  - reflection
+draft: false
+---
+## Shanghai
+
+I took the train by myself to Shanghai
+
+
+![Nanjingnan Station](images/train.png){fig-align="center"}
+

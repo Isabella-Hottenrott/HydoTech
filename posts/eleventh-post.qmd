@@ -1,0 +1,22 @@
+---
+title: "Day 11"
+description: "Tuesday"
+author: "Bella Hottenrott"
+date: "1/13/2026"
+categories:
+  - reflection
+draft: false
+---
+## Arrival in Ordos
+
+## Solar Panels
+
+![Solar Panel Field](images/panels.png){fig-align="center"}
+
+## Desert
+
+## Windand
+
+## Dinner
+
+

@@ -1,0 +1,12 @@
+---
+title: "Day 10"
+description: "Monday"
+author: "Bella Hottenrott"
+date: "1/12/2026"
+categories:
+  - reflection
+draft: false
+---
+## Tsinghua University
+
+![In front of the Tsinghua University Gate](images/tsinghua.png){fig-align="center"}

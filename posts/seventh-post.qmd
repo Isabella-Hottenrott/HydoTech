@@ -1,0 +1,22 @@
+---
+title: "Day 7"
+description: "Friday"
+author: "Bella Hottenrott"
+date: "1/9/2026"
+categories:
+  - reflection
+draft: false
+---
+## Reflection
+
+I spent the early part of this day compiling this blog. Now that I have reached the end of the week, it was time for me to reflect and write everything up
+
+## Further Research
+
+I continued my research into the phases of Nickel at 30 wt% KOH. I found different papers that took different approaches of experimentation to characterize the phases. Some were contradictory, leading me to look deeper into the conditions under which the experiments took place. I first looked into the different types of experimentation, to better understand what data was exactly being extracted- what exactly was being measured and by what means. These included Raman Spectroscopies, Cyclic Voltammetries, Pourbaix Diagrams, and X-ray Photoelectron Spectroscopies. Once I had a better idea, I began writing down the different experimental conditions. 
+
+## Dinner
+
+For dinner, Sia, Yutong, and two of Sia's friends and I went to Haidilao for Hotpot. I got my nails done, which comes as a package of getting the food. I tried many new different foods, including: Duck brain, duck blood, chicken feet, and cow intestine. I really liked the cow intestine. We had the tomato sauce and the Chongqing spicy sauce, which I actually found quite bearable.
+
+![Hotpot Spread](images/hotpot.png){fig-align="center" width=70%}

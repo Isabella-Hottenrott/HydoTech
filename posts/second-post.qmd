@@ -1,0 +1,19 @@
+---
+title: "Day 2"
+description: "Sunday"
+author: "Bella Hottenrott"
+date: "1/4/2026"
+categories:
+  - reflection
+draft: false
+---
+## Jumping Right Into the New Year
+
+Sunday was technically my first day in the office. Because of the three-day New Year break, the schedule shifted, meaning everyone was back at their desks today. I walked to work on my own.
+
+![First Walk to Work](images/walktowork.png){fig-align="center"}
+
+## Onboarding
+
+I got settled at my desk and spent the day absorbing HydoTech pamphlets—learning about the company’s massive footprint in China and globally—and reading a detailed BCG report on the Hydrogen Energy Industry to get the "big picture" view.
+

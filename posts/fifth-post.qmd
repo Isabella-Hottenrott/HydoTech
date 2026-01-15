@@ -1,0 +1,21 @@
+---
+title: "Day 5"
+description: "Wednesday"
+author: "Bella Hottenrott"
+date: "1/7/2026"
+categories:
+  - reflection
+draft: false
+---
+
+## HydoTech Canteen
+
+Research continued through the morning. At lunch, I hit a milestone: my first canteen noodles in China with Muyi. I had a delicious hot bowl of noodles with beef, perfect in the middle of a cold work day.
+
+## Electrical Schematics
+
+In the afternoon, I shifted gears to something more comfortable to me: Electrical Engineering.
+
+I reviewed the schematics for the CVM controller sent by Mr. Gu. I connected the dots between the schematics and the system overview Mr. Gu had shown me earlier. To wrap up the day, I took the metro home—I always think public transport is the best way to learn the heartbeat of a new city.
+
+![CVM Schematics](images/cvmschem.png){fig-align="center" width=70%}

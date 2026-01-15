@@ -1,0 +1,13 @@
+---
+title: "Day 9"
+description: "Sunday"
+author: "Bella Hottenrott"
+date: "1/11/2026"
+categories:
+  - reflection
+draft: false
+---
+## Travel to Beijing
+
+![Nanjing Skyline from Train](images/nanjingskyline.png){fig-align="center"}
+

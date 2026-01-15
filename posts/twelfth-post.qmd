@@ -1,0 +1,14 @@
+---
+title: "Day 12"
+description: "Wednesday"
+author: "Bella Hottenrott"
+date: "1/14/2026"
+categories:
+  - reflection
+draft: false
+---
+
+## Travel Back to Nanjing
+
+![Mongolian Yogurt for Breakfast](images/yogurt.png){fig-align="center" width=40%}
+

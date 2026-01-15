@@ -1,0 +1,11 @@
+---
+title: "Day 13"
+description: "Thursday"
+author: "Bella Hottenrott"
+date: "1/15/2026"
+categories:
+  - reflection
+draft: false
+---
+
+

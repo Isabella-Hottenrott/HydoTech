@@ -1,0 +1,43 @@
+---
+title: "Day 6"
+description: "Thursday"
+author: "Bella Hottenrott"
+date: "1/8/2026"
+categories:
+  - reflection
+draft: false
+---
+## Field Trip
+
+We drove out to the suburbs of Jiangsu to visit the motor controller manufacturing center. This was a heavy-hitting technical day. Before arriving at the manufacturing center, we had a delicious lunch from the region.
+
+![Fish Soup for Lunch](images/jiangsulunch.png){fig-align="center" width=50%}
+
+
+## Stop 1: The R&D Field Station
+
+We saw a testbench for a big electrolyzer that the clients wanted Mr. Gu to take a look at. It’s quite a machine, consuming CO2 and recycling its own heat. Seeing technology with that kind of prospect for the future was inspiring.
+
+## Stop 2: Manufacturing
+
+We toured the assembly lines (a mix of full and partial automation) where they seal the controller PCBs. We walked through the vibration and environmental testing rooms—rigorous stuff.
+
+## The CVM Test
+
+Finally, we got our hands on the HydoTech CVM controller system I had studied the day before. Here is how the system flow worked:
+
+  * Distribution: Test voltage leads to probes connecting to the electrolyzer substrate.
+  * Conversion: Inside the controller, voltage is converted to a two-byte representation and biased upward (to avoid negatives).
+  * Transmission: Transmission: Data is sent via two CAN ports $\rightarrow$ CAN-to-Ethernet gateway $\rightarrow$ Modbus conversion $\rightarrow$ Gateway.
+  * Cloud: Over the router, data goes via 5G to the server.
+
+
+We validated the real-time data on the computer using a multimeter.
+
+![Probing the CVM Controller with a Multimeter](images/cvmtest.png){fig-align="center"}
+
+## Panda Cake and Japanese
+
+We returned to Nanjing for a dinner with the whole crew: Yutong, Yubo, Mr. Gu, Muyi, and Vanessa. Great company and excellent food, headlined by a green cake featuring edible pandas. The Japanese food served for dinner was also really great.
+
+![Japanese for Dinner](images/japanese.png){fig-align="center" width=50%}
