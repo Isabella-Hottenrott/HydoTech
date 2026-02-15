@@ -2,7 +2,7 @@
 title: "Isabella's Time at HydoTech"
 ---
 
-Welcome! I am finishing my undergraduate engineering degree in California, and had the amazing opportunity to visit [HydoTech](https://www.hydo.tech/) in Nanjing this Winter. Here is my blog of my time in China! 
+Welcome! I am finishing my undergraduate engineering degree in California, and had the amazing opportunity to visit [HydoTech](https://www.hydotech.com/) in Nanjing this Winter. Here is my blog of my time in China! 
 
 ![](frontpic.png){fig-align="center"}
 

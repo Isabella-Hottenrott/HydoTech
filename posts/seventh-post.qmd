@@ -9,14 +9,20 @@ draft: false
 ---
 ## Reflection
 
-I spent the early part of this day compiling this blog. Now that I have reached the end of the week, it was time for me to reflect and write everything up
+I spent the early part of this day compiling this blog. Now that I have reached the end of the week, it was time for me to reflect and write everything up. I had initially started writing this in a simple word document.
 
 ## Further Research
 
 I continued my research into the phases of Nickel at 30 wt% KOH. I found different papers that took different approaches of experimentation to characterize the phases. Some were contradictory, leading me to look deeper into the conditions under which the experiments took place. I first looked into the different types of experimentation, to better understand what data was exactly being extracted- what exactly was being measured and by what means. These included Raman Spectroscopies, Cyclic Voltammetries, Pourbaix Diagrams, and X-ray Photoelectron Spectroscopies. Once I had a better idea, I began writing down the different experimental conditions. 
 
+Later, I started realizing that I would need to progress in some other ways. I knew that I would be busy in the upcoming days with travel and sightseeing plans, and I wouldnt be able to understand everything about the mechanisms surrounding the evolution of Nickel species in the few days of work that I had remaining.
+
+As I have previously mentioned, I wasn't able to employ AI as well in this instance to arrive at a better understanding and be able to move forward in my research. I decided that the best way for me to make substantial progress and produce a meaningful deliverable for Mr. Gu was if I learned from professionals in the field. I started gathering a list of professors and researchers in the field of Nickel-based catalysts, and I reached out to them to ask for references that I might find useful in my research. Just writing the emails and collecting the list took me the whole rest of the day, but I was happy to have gotten started on this, and allowing them a bit of time to respond given the holidays.
+
 ## Dinner
 
 For dinner, Sia, Yutong, and two of Sia's friends and I went to Haidilao for Hotpot. I got my nails done, which comes as a package of getting the food. I tried many new different foods, including: Duck brain, duck blood, chicken feet, and cow intestine. I really liked the cow intestine. We had the tomato sauce and the Chongqing spicy sauce, which I actually found quite bearable.
 
-![Hotpot Spread](images/hotpot.png){fig-align="center" width=70%}
+![Hotpot Spread](/images/hotpot.png){fig-align="center" width=70%}
+
+Yutong came late to dinner, although we were eating around eight, because she had more work that she wanted to get done. I had been sitting opposite her the whole day, observing how focused she was since the morning. This went to show how hardworking the startup scene is here.

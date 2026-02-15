@@ -8,4 +8,19 @@ categories:
 draft: false
 ---
 
+## Morning
+
+I practised my slides a few times in the morning. I then wanted to get a cake for the HydoTech office to thank them for my time. I thought I should get a German cake, so that I could share my culture a bit in the way that everyone had shared their culture with me throughout the trip. I found a bakery that had a Schwarzwälder Kirschtorte, which is a very traditional German cake. I was excited to share it with everyone at the office.
+
+## Presentation
+
+I then headed to the office and went over my slides once more. I gave my presentation to the team, and I was happy with how it went. I had a good discussion with the team about my findings and they provided me with some helpful feedback on how to improve my work going forward. For one, I learned that the simple pH calculation that I used to calculate the pH of 30% wt KOH = 14.85 was false. This calculation is only valid for pHs below 14. It was a good opportunity to share my work and get feedback from professionals in the field.
+
+## Dinner 
+
+To end the presentation, I shared my cake and we headed to a hotpot spot for dinner.
+
+![Hotpot](/images/hotpott.png){fig-align="center"}
+
+Once again, I had the absolute best time sharing a meal and spending time with my colleagues here. HydoTech has a very special culture, where everyone gets along so well. After our meal, it was very sad for me to think it was my last day in Nanjing. I said a big goodbye and a big thank you to Muyi. Tomorrow, I would be headed to Shanghai with Mr. Gu to see a few suppliers.
 
