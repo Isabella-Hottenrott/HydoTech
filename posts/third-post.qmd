@@ -9,14 +9,14 @@ draft: false
 ---
 ## Morning Work
 
-In the morning, I continued with some code to analyze CVM data under different fault scenarios. These included: Short Circuit by Cable, Short Circuit by Lye, Diaphragm Damage, and Lye Starvation.
+In the morning, I continued with some code to analyze CVM data under different fault scenarios. These included: Short Circuit by Cable, Short Circuit by Lye, Diaphragm Damage, and Lye Starvation. This was the first statistical and data-analytics work that I had done in a relatively long time.
 
 ![Data for Membrane Damage](images/memdamage.png){fig-align="center" width=40%}
 
 
 ## To the Factory
 
-Vanessa, Yutong, Sia and I headed out to the factory. Seeing the manufacturing setup was very interesting; I walked through the areas where the electrolyzers are built and the R&D rooms where they undergo rigorous testing. One of the most unique sights? The Hydrogen Bicycle.
+Vanessa, Yutong, Sia and I headed out to the factory. Seeing the manufacturing setup was very interesting; I walked through the areas where the electrolyzers are built and the R&D rooms (Safety Research Lab, etc) where they undergo rigorous testing. One of the most unique sights? The Hydrogen Bicycle.
 
 
 ## Team Building Games

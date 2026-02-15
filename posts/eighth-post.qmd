@@ -9,8 +9,17 @@ draft: false
 ---
 ## Shanghai
 
-I took the train by myself to Shanghai
-
+Over the weekend, I took the train by myself to Shanghai. I was expecting to have a much more difficult journey, considering that I do not speak the language and do not have a passport from here. I arrived at the train station with only 20 minutes before my departure, so I was a bit stressed about not making it. Instead, I had about ten minutes sitting on the train before we took off, because everything went so quickly. The process went extremely smoothly. The train took just over one hour. The distance travelled is the same as New York to Boston. But the New York to Boston train takes around four hours. 
 
 ![Nanjingnan Station](images/train.png){fig-align="center"}
 
+
+In Shanghai, I also took the metro, which was extremely easy to navigate and use. Simply a QR code. Just like the train from Nanjingan.
+
+I walked around Jing'an, as per a recommendation from my friend. It was warmer than in Nanjing, which made it more pleasant to walk around. I went by a bunch of cool shops and nice houses. 
+
+I also saw the Jing'an Temple, which was a massive temple made of mostly wood and gold, right in the middle of the city, surrounded by malls on every corner. I found this so interesting. It really showed the character of Shanghai as a city: history, but also extremely modern.
+
+![Jing'an Temple](images/jingantemple.png){fig-align="center"}
+
+I continued to just walk around the area that I was in, because it was so nice. I had a matcha and then started walking to ward the train station so that I could make my train home. Once in Nanjing, I took the subway home and got to bed.
